@@ -18,6 +18,6 @@
 
 🌐 Conecte-se Comigo
 🛠️ Tech Stack & Ferramentas
-[![My Skills](https://skillicons.dev/icons?i=aws, docker, fastapi, git, github, gitlab, discord, idea, vscode, mint, mongodb, mysql, obsidian, postgres, py, cpp, c)](https://skillicons.dev)
+[(https://skillicons.dev/icons?i=aws, docker, fastapi, git, github, gitlab, discord, idea, vscode, mint, mongodb, mysql, obsidian, postgres, py, cpp, c)](https://skillicons.dev)
 📊 Estatísticas do GitHub
 🏆 GitHub Trophies / Conquistas

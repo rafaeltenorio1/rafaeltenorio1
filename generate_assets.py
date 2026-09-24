@@ -140,8 +140,8 @@ def website_icon():
 
 def main():
     ap = argparse.ArgumentParser(description="Gera os SVGs do README de perfil.")
-    ap.add_argument("--name", default="Seu Nome", help="nome exibido no banner")
-    ap.add_argument("--role", default="Seu Cargo / Sua Área", help="cargo exibido no banner")
+    ap.add_argument("--name", default="Rafael Araújo Tenório", help="nome exibido no banner")
+    ap.add_argument("--role", default="Software Engineer / Data Engineer / Back-End Developer", help="cargo exibido no banner")
     ap.add_argument("--seed", type=int, default=2026, help="semente do mosaico")
     ap.add_argument("--out", default="assets", help="pasta de saída")
     ap.add_argument("--extra", action="append", default=[],

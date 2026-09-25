@@ -6,7 +6,7 @@
 
 <img src="assets/titles/quem-sou-eu.svg" width="100%" alt="Quem sou eu">
 
-Olá, eu sou **Rafael Araújo Tenório** — engenheiro de software, dados e desenvolvedor back-end. Sou apaixonado por construir ferramentas que simplificam a vida das pessoas. Trabalho na interseção entre desenvolvimento, dados, inteligência artificial e automação, e escrevo sobre o que construo e aprendo pelo caminho.
+Olá, me chamo **Rafael Araújo Tenório**, sou engenheiro de software, dados e desenvolvedor back-end. Sou apaixonado por construir ferramentas que simplificam a vida das pessoas. Trabalho na interseção entre desenvolvimento, dados, inteligência artificial e automação, e escrevo sobre o que construo e aprendo pelo caminho.
 
 <br>
 

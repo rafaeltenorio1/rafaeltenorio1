@@ -2,11 +2,10 @@
 <img src="assets/Banner-jpg.jpg" width="80%">
 </div>
 
-<br>
-
-<div align="center">
+<!--<br>
+<div align="center"> 
 <img src="assets/banner.svg" width="100%" alt="Rafael Araújo Tenório — Software Engineer / Data Engineer / Back-end Developer">
-</div>
+</div> -->
 
 <br>
 

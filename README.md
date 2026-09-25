@@ -28,11 +28,22 @@ Construo software e soluções que resolvem problemas reais. Sempre transformand
 
 <br>
 
-<img src="assets/titles/atividade.svg" width="100%" alt="Atividade">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1b2a4a&height=60&text=ATIVIDADE&fontSize=20&fontAlign=10&fontAlignY=50&desc=::%20%20■%20■■%20■%20■&descAlign=90&descAlignY=50" width="100%" alt="Atividade" />
+</p>
 
-<div align="center">
-  <img src="profile-3d-contrib/profile-navy.svg" width="100%" alt="Gráfico 3D das minhas contribuições no GitHub, com radar de atividade e linguagens mais usadas">
-</div>
+<!-- Gráfico 3D de Contribuições Isometricas -->
+<p align="center">
+  <img src="https://github-profile-3d-contrib.puppetmaster.dev/users/rafaeltenorio1/sparkline" width="100%" alt="Gráfico de Contribuições GitHub" />
+</p>
+
+<!-- Estatísticas e Linguagens do GitHub lado a lado -->
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=rafaeltenorio1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeltenorio1&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
+</p>
+
+<br>
 
 <br>
 

@@ -4,16 +4,32 @@
 
 <br>
 
-<img src="assets/titles/quem-sou-eu.svg" width="100%" alt="Quem sou eu">
+<table>
+  <tr>
+    <td width="60%" valign="top">
+
+<img src="assets/titles/quem-sou-eu.svg" width="60%" alt="Quem sou eu">
 
 Olá, me chamo **Rafael Araújo Tenório**, sou engenheiro de software, dados e desenvolvedor back-end. Sou apaixonado por construir ferramentas que simplificam a vida das pessoas. Trabalho na interseção entre desenvolvimento, dados, inteligência artificial e automação, e escrevo sobre o que construo e aprendo pelo caminho.
 
-<br>
-
-<img src="assets/titles/o-que-faco.svg" width="100%" alt="O que faço">
+<img src="assets/titles/o-que-faco.svg" width="60%" alt="O que faço">
 
 Construo software e soluções que resolvem problemas reais. Sempre transformando ideias em produtos e de entendendo tudo a partir dos primeiros princípios: se eu não sei como funciona por dentro, ainda não terminei de estudar.
 
+<img src="assets/titles/contato.svg" width="40%" alt="Contato">
+
+<p>
+  <a href="SEU_LINK_LINKEDIN"><img src="assets/icons/linkedin.svg" width="30" alt="LinkedIn"></a>
+  <a href="mailto:SEU_EMAIL"><img src="assets/icons/gmail.svg" width="30" alt="Gmail"></a>
+</p>
+
+    </td>
+    <td width="40%" valign="top" align="center">
+      <br>
+      <img src="assets/programing.jpg" width="100%" alt="Ilustração Programador">
+    </td>
+  </tr>
+</table>
 
 <br>
 

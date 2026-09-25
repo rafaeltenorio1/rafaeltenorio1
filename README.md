@@ -42,7 +42,7 @@ Construo software e soluções que resolvem problemas reais. Sempre transformand
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode, py,c,cpp,discord,docker,fastapi,git,github,gitlab,idea,linux,matlab,mongodb,mysql,postgres,obsidian,replit,powershell,aws&theme=dark&perline=8" alt="Minhas Habilidades" />
+    <img src="https://skillicons.dev/icons?i=vscode,py,c,cpp,discord,docker,fastapi,git,github,gitlab,idea,linux,matlab,mongodb,mysql,postgres,obsidian,replit,aws&theme=dark&perline=8" alt="Minhas Habilidades" />
   </a>
 </p>
 

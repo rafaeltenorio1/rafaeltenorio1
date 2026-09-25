@@ -26,7 +26,7 @@ Construo software e soluções que resolvem problemas reais. Sempre transformand
 <td width="40%" valign="top" align="center">
 
 <br>
-<img src="assets/programing.jpg" width="100%" alt="Ilustração Programador">
+<img src="assets/Foto-PixelArt.jpg" width="100%" alt="Ilustração Programador">
 
 </td>
 </tr>

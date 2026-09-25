@@ -37,7 +37,7 @@ Construo software e soluções que resolvem problemas reais. Sempre transformand
 <br>
 
 <p align="center">
-  <img src="assets/titles/skill-set.svg" width="100%" alt="Skill set">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1b2a4a&height=60&text=SKILL%20SET&fontSize=20&fontAlign=10&fontAlignY=50&desc=::%20%20■%20■■%20■%20■&descAlign=90&descAlignY=50" width="100%" alt="Skill Set" />
 </p>
 
 <p align="center">

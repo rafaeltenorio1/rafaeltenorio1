@@ -1,5 +1,5 @@
 <div align="center">
-<img src="assets/welcome.svg" width="100%" alt="Welcome to Rafael Araújo Tenório's GitHub">
+<img src="assets/Banner-jpg.jpg" width="100%">
 </div>
 
 <br>
